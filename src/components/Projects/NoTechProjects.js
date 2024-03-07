@@ -50,7 +50,7 @@ function Projects() {
               imgPath={[marblesAndJokers, kwLogo]}
               isBlog={false}
               title="Marbles and Jokers"
-              description="My brother creating a board game and needed some stickers for the boxes. Working with him and taking feedback on the design resulted in a logo that he loved and adds some flair to his boxes!"
+              description="My brother created a board game and needed some stickers for the boxes. Working with him and taking feedback on the design resulted in a logo that he loved and adds some flair to his boxes!"
               ghLink=""
               demoLink=""
             />
@@ -60,7 +60,7 @@ function Projects() {
               imgPath={[davidParty]}
               isBlog={false}
               title="Cake Stencils"
-              description="In our family for people 30th birthday we go all out! While I didn't make the cake, I made the stencils for all of the designs that went onto the cake! It took some trial and error with Photoshop and my Cricut cutting machine, but the final product was well worth it!"
+              description="In our family for people's 30th birthday we go all out! While I didn't make the cake, I made the stencils for all of the designs that went onto the cake! It took some trial and error with Photoshop and my Cricut cutting machine, but the final product was well worth it!"
               ghLink=""
               demoLink=""
             />
