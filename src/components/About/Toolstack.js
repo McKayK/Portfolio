@@ -4,8 +4,8 @@ import {
   SiVisualstudiocode,
   SiPostman,
   SiSlack,
-  SiVercel,
-  SiMacos,
+  // SiVercel,
+  // SiMacos,
   SiAdobephotoshop,
 } from "react-icons/si";
 

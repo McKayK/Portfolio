@@ -1,24 +1,24 @@
 import React, { useState } from "react";
 import { Col, Row, OverlayTrigger, Tooltip } from "react-bootstrap";
-import { CgCPlusPlus } from "react-icons/cg";
+// import { CgCPlusPlus } from "react-icons/cg";
 import {
   DiJavascript1,
   DiReact,
   DiNodejs,
-  DiMongodb,
-  DiPython,
-  DiGit,
-  DiJava,
+  // DiMongodb,
+  // DiPython,
+  // DiGit,
+  // DiJava,
 } from "react-icons/di";
 import {
-  SiRedis,
+  // SiRedis,
   SiFirebase,
-  SiNextdotjs,
-  SiSolidity,
+  // SiNextdotjs,
+  // SiSolidity,
   SiPostgresql,
 } from "react-icons/si";
 import {
-  TbBrandGolang,
+  // TbBrandGolang,
   TbBrandReactNative,
   TbBrandThreejs,
   TbBrandSocketIo,
