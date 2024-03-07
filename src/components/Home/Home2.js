@@ -8,6 +8,7 @@ import {
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
+import kkDisney from "../../Assets/kkDisney.png";
 
 function Home2() {
   return (
@@ -47,7 +48,7 @@ function Home2() {
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
-              <img src={myImg} className="img-fluid" alt="avatar" />
+              <img src={kkDisney} className="img-fluid" alt="avatar" />
             </Tilt>
           </Col>
         </Row>
