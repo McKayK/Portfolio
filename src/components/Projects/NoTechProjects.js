@@ -30,7 +30,7 @@ function Projects() {
               imgPath={[landscapeMockup]}
               isBlog={false}
               title="Landscape Mockup"
-              description="I love to use and develope my skills in Photoshop. I'm trying to come up with some good ideas for landscaping in a yard. It's really nice to be able to visualize things before spending any money!"
+              description="I love to use and develop my skills in Photoshop. I'm trying to come up with some good ideas for landscaping in a yard. It's really nice to be able to visualize things before spending any money!"
               ghLink=""
               demoLink=""
             />
